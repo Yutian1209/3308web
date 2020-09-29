@@ -1,0 +1,41 @@
+/* Add any css you want to use for you website here */
+div.container{
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
+
+/*.img1{
+    float: left;
+    width: 450px;
+}
+.textbox1{
+    float: right;
+    width: 450px;
+    text-align: left;
+}*/
+
+.card{
+    text-align: center;
+}
+#table1{
+    text-align: center;
+}
+
+#register1{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+label{
+    cursor: pointer;
+    display: inline-block;
+    padding: 3px 6px;
+    text-align: right;
+    width: 150px;
+    vertical-align: top;
+}
+
+input{
+    font-size: inherit;
+}
